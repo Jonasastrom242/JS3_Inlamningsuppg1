@@ -1,0 +1,17 @@
+.card {
+  border: 1px solid #c2c2c2;
+  padding: 1rem;
+  border-radius: .5rem;
+  margin-bottom: .5rem;
+  box-shadow: 3px 3px 5px #33333338;
+  text-decoration: none;
+  color: #333;
+  
+}
+.card:hover {
+  background-color: #f1f1f1;
+}
+.card .evt-title {
+  font-weight: bold;
+  font-size: 1.1rem;
+}

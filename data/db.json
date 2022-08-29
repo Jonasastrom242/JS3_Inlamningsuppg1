@@ -1,0 +1,118 @@
+{
+  "events": [
+    {
+      "title": "Event 1",
+      "description": "Ett event som handlar om någonting kul",
+      "timestamp": 1653290260864,
+      "id": "12qwedfv"
+    },
+    {
+      "title": "test",
+      "description": "Det här är ett test event",
+      "timestamp": 1653298680000,
+      "id": "MfJStCP"
+    },
+    {
+      "title": "test2",
+      "description": "Det här är ett test event",
+      "timestamp": 1653309480000,
+      "id": "T9XxKDQ"
+    },
+    {
+      "title": "Äta lunch",
+      "description": "maaaaat",
+      "timestamp": 1653300000000,
+      "id": "Q4WLbwe"
+    },
+    {
+      "title": "rhgfh",
+      "description": "fhgfhgf",
+      "timestamp": 1660989720000,
+      "id": "WcBi5B-"
+    },
+    {
+      "title": "dhdfdhfh 2",
+      "description": "gfhfhgb",
+      "timestamp": 1661940180000,
+      "id": "HPxJjkx"
+    },
+    {
+      "title": "sdf sd f3",
+      "description": "",
+      "timestamp": 1661508180000,
+      "id": "j0zgNze"
+    },
+    {
+      "title": "",
+      "description": "",
+      "timestamp": 1660212360000,
+      "id": "XiZ1oTu"
+    },
+    {
+      "title": "",
+      "description": "",
+      "timestamp": 1661343480000,
+      "id": "-g0sEDO"
+    },
+    {
+      "title": "asdsfd",
+      "description": "dsdfdsf",
+      "timestamp": 1659529440000,
+      "id": "uv-Rn5Z"
+    },
+    {
+      "title": "sdfsd",
+      "description": "sdfsdf",
+      "timestamp": 1659445260000,
+      "id": "_xAwWa6"
+    },
+    {
+      "title": "sdfsdf",
+      "description": "sdfsdf",
+      "timestamp": null,
+      "id": "TU5UTKC"
+    },
+    {
+      "title": "hoooh",
+      "description": "hh",
+      "timestamp": 1662730680000,
+      "id": "TbAxmnj"
+    },
+    {
+      "title": "1111",
+      "description": "asdfsdf",
+      "timestamp": 1661623560000,
+      "id": "TWE39-J"
+    },
+    {
+      "title": "asdfasdf",
+      "description": "asdf",
+      "timestamp": 1659773880000,
+      "id": "bxQO_aa"
+    },
+    {
+      "title": "test 2",
+      "description": "adsfsdf",
+      "timestamp": 1661933940000,
+      "id": "ReUvz8e"
+    },
+    {
+      "title": "test ",
+      "description": "asdfsdfs",
+      "timestamp": 1663834800000,
+      "id": "YWUuVK5"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "jonas@jonas.com",
+      "password": "losen123"
+    },
+    {
+      "id": "2",
+      "email": "jonas2@jonas.com",
+      "password": "losen123"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+.navbar {
+  padding-top: 2rem;
+  margin-bottom: 2rem;
+  background-color: #f0f8ff;
+}
+.navbar .title {
+  font-size: 3rem;
+}
+button {
+  size: 3rem;
+  color: #1C00A5;
+  
+}
+.btn-font {
+  font-size: 1.3rem;
+  text-decoration: underline;
+}
